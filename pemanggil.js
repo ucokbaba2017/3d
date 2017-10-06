@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2017/10/how-can-i-reduce-cost-of-printed.html"}
 if(x=="2"){xxx="/2017/10/how-you-can-recycle-printed-circuit.html"}
 if(x=="3"){xxx="/2017/10/guide-to-solder-mask-discoloration.html"}
 if(x=="4"){xxx="/2017/10/high-speed-pcb-layout-guidelines.html"}
-if(x=="5"){xxx="/2017/10/designing-pcb-for-high-voltage-pcb.html"}a_to_ve[i].href="http://www.pcb-board.tk/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2017/10/designing-pcb-for-high-voltage-pcb.html"}a_to_ve[i].href="http://www.pcb-board.tk"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
